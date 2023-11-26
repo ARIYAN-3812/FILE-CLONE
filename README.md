@@ -14,4 +14,6 @@
 
 - `cd FILE-CLONE`
 
+- - `git pull`
+
 - `python3 SHADIN.py`
